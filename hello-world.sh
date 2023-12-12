@@ -1,2 +1,3 @@
-hello world
-print "i m devops engineer"
+#!/bin/bash
+
+echo "Hello World, I'm working as DevOps Engineer"
